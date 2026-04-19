@@ -61,10 +61,6 @@ python3 zhihu/zhihu_publish_v2.py "/path/to/article.md"
 - macOS（剪贴板功能依赖 pyobjc）
 - Chrome 浏览器（已登录对应平台）
 
-## Star 增长
-
-[![Star History Chart](https://api.star-history.com/svg?repos=koffuxu/md-publisher&type=Date)](https://star-history.com/#koffuxu/md-publisher&Date)
-
 ## 作者
 
 | 平台 | 链接 |
