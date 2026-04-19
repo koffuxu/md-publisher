@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.pyc
+.DS_Store
+*.csdn-debug.png
+*.juejin-debug.png
+*.csdn.preview.html
